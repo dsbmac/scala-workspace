@@ -1,0 +1,37 @@
+package week3
+
+object rationals {
+  val x = new Rational(1,2)
+  x.numer
+  x.denom
+  
+  val y = new Rational(2,3)
+  x.add(y)
+  x.neg
+  
+  y.sub(x) // 1/6
+}
+
+class Rational(x: Int, y: Int) {
+	def numer = x
+	def denom = y
+	
+	def add(that: Rational) =
+		new Rational(
+			numer * that.denom + that.numer * denom,
+			denom * that.denom)
+	
+	// Rational -> Rational
+	// subtract two rational numbers
+	def sub(that: Rational) =
+		new Rational(
+				numer * that.denom - that.numer * denom,
+				denom * that.denom)
+			
+	override def toString = numer + "/" + denom
+	
+	// x.neg -> -x
+	def neg = new Rational(numer * -1, denom)
+	
+	 
+}

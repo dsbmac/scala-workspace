@@ -1,0 +1,8 @@
+import example.Lists._
+ls
+dir
+la/
+ls/
+Lists._
+import
+console

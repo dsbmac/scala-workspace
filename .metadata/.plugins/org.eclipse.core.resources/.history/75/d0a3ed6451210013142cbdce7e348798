@@ -1,0 +1,54 @@
+package recfun
+import recfun.Main._
+
+object test {
+  val x = pascal(0,2)                             //> x  : Int = 1
+  val y = pascal(1,2)                             //> y  : Int = 2
+  val z = pascal(1,3)                             //> z  : Int = 3
+  
+  // Exercise 2
+  val s1 = "(if (zero? x) max (/ 1 x))".toList    //> s1  : List[Char] = List((, i, f,  , (, z, e, r, o, ?,  , x, ),  , m, a, x,  
+                                                  //| , (, /,  , 1,  , x, ), ))
+  val s2 = "()".toList                            //> s2  : List[Char] = List((, ))
+  //val s2 = "I told him (that it's not (yet) done). (But he wasn't listening)"
+  
+  //val r1 = balance(s1)                          //> ((,0)
+                                                  //| (i,1)
+                                                  //| (f,1)
+                                                  //| ( ,1)
+                                                  //| ((,1)
+                                                  //| (z,2)
+                                                  //| (e,2)
+                                                  //| (r,2)
+                                                  //| (o,2)
+                                                  //| (?,2)
+                                                  //| ( ,2)
+                                                  //| (x,2)
+                                                  //| (),2)
+                                                  //| ( ,1)
+                                                  //| (m,1)
+                                                  //| (a,1)
+                                                  //| (x,1)
+                                                  //| ( ,1)
+                                                  //| ((,1)
+                                                  //| (/,2)
+                                                  //| ( ,2)
+                                                  //| (1,2)
+                                                  //| ( ,2)
+                                                  //| (x,2)
+                                                  //| (),2)
+                                                  //| (),1)
+                                                  //| java.util.NoSuchElementException: head of empty list
+                                                  //| 	at scala.collection.immutable.Nil$.head(List.scala:337)
+                                                  //| 	at scala.collection.immutable.Nil$.head(List.scala:334)
+                                                  //| 	at recfun.Main$.rec_balance$1(Main.scala:45)
+                                                  //| 	at recfun.Main$.rec_balance$1(Main.scala:56)
+                                                  //| 	at recfun.Main$.rec_balance$1(Main.scala:56)
+                                                  //| 	at recfun.Main$.rec_balance$1(Main.scala:56)
+                                                  //| 	at recfun.Main$.balance(Main.scala:68)
+                                                  //| 	at recfun.test$$anonfun$main$1.apply$mcV$sp(recfun.test.scala:14)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
+                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+  val r2 = balance(s2)
+}

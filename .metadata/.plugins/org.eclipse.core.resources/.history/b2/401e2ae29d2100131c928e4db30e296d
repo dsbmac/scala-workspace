@@ -1,0 +1,23 @@
+package recfun
+//import recfun.Main._
+
+object test {
+  val x = pascal(0,2)
+  val y = pascal(1,2)
+  val z = pascal(1,3)
+  
+  // Exercise 2
+  val s1 = "(if (zero? x) max (/ 1 x))".toList
+  val s2 = "()".toList
+  val s3 = "I told him (that it's not (yet) done). (But he wasn't listening)".toList
+  val s4 = ":-)".toList
+  val s5 = "())(".toList
+  
+  val r1 = balance(s1)
+  val r2 = balance(s2)
+  val r3 = balance(s3)
+  val r4 = balance(s4)
+  val r5 = balance(s5)
+  
+  val c1 = List(1,2).size
+}

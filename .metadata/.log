@@ -1,0 +1,657 @@
+!SESSION 2013-09-17 17:10:50.009 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Denis\workspace
+
+!ENTRY org.eclipse.ui 4 4 2013-09-17 17:13:19.521
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-17 17:13:24.987 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-17 17:13:37.124
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 11:31:04.801 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 11:35:00.932
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 11:36:17.939 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.scala-ide.sdt.core 4 0 2013-09-18 11:37:35.436
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found.
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 11:39:39.278
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 11:39:44.234 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 11:44:41.563
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 13:44:14.020 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 13:54:39.511
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 13:54:43.776 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 14:00:58.724
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-18 14:01:02.108 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-18 14:40:24.574
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-19 11:53:46.860 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-19 11:59:09.680
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-19 22:19:47.491 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-19 22:32:10.607
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-19 22:33:53.189 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-19 22:35:11.899
+!MESSAGE Invalid preference page path: XML Syntax
+
+!ENTRY org.eclipse.jdt.core 4 2 2013-09-19 22:38:08.333
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 0
+scala.tools.eclipse.ScalaProject$InvalidCompilerSettings: Scala compiler cannot initialize for project: example. Please check that your classpath contains the standard Scala library.
+	at scala.tools.eclipse.ScalaProject.defaultOrElse(ScalaProject.scala:580)
+	at scala.tools.eclipse.ScalaProject.withSourceFile$default$3(ScalaProject.scala:595)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile$$anonfun$2.apply(ScalaSourceFile.scala:61)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile$$anonfun$2.apply(ScalaSourceFile.scala:61)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:591)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.scheduleReconcile(ScalaSourceFile.scala:63)
+	at scala.tools.eclipse.ScalaProject$$anonfun$resetPresentationCompiler$2.apply(ScalaProject.scala:615)
+	at scala.tools.eclipse.ScalaProject$$anonfun$resetPresentationCompiler$2.apply(ScalaProject.scala:615)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:47)
+	at scala.tools.eclipse.ScalaProject.resetPresentationCompiler(ScalaProject.scala:615)
+	at scala.tools.eclipse.ScalaPlugin$$anonfun$elementChanged$4.apply(ScalaPlugin.scala:394)
+	at scala.tools.eclipse.ScalaPlugin$$anonfun$elementChanged$4.apply(ScalaPlugin.scala:394)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)
+	at scala.tools.eclipse.ScalaPlugin.elementChanged(ScalaPlugin.scala:394)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1670)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1660)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1494)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1470)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2082)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:470)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:395)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:557)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.jdt.core 4 4 2013-09-19 22:38:08.337
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+scala.tools.eclipse.ScalaProject$InvalidCompilerSettings: Scala compiler cannot initialize for project: example. Please check that your classpath contains the standard Scala library.
+	at scala.tools.eclipse.ScalaProject.defaultOrElse(ScalaProject.scala:580)
+	at scala.tools.eclipse.ScalaProject.withSourceFile$default$3(ScalaProject.scala:595)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile$$anonfun$2.apply(ScalaSourceFile.scala:61)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile$$anonfun$2.apply(ScalaSourceFile.scala:61)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:591)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.scheduleReconcile(ScalaSourceFile.scala:63)
+	at scala.tools.eclipse.ScalaProject$$anonfun$resetPresentationCompiler$2.apply(ScalaProject.scala:615)
+	at scala.tools.eclipse.ScalaProject$$anonfun$resetPresentationCompiler$2.apply(ScalaProject.scala:615)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:47)
+	at scala.tools.eclipse.ScalaProject.resetPresentationCompiler(ScalaProject.scala:615)
+	at scala.tools.eclipse.ScalaPlugin$$anonfun$elementChanged$4.apply(ScalaPlugin.scala:394)
+	at scala.tools.eclipse.ScalaPlugin$$anonfun$elementChanged$4.apply(ScalaPlugin.scala:394)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)
+	at scala.tools.eclipse.ScalaPlugin.elementChanged(ScalaPlugin.scala:394)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$4.run(DeltaProcessor.java:1670)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1660)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1494)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1470)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2082)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:470)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:395)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:557)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2013-09-19 22:38:08.346
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala.runtime in compiler mirror not found.
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2013-09-19 22:38:17.061
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:793)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete '/example/lib_managed'.
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit\junit-4.10.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-1.9.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed.
+Contains: Could not delete 'C:\Users\Denis\workspace\example'.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.063
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete '/example/lib_managed'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit\junit-4.10.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-1.9.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed.
+!SUBENTRY 3 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.063
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit\junit-4.10.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-1.9.1.jar.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.063
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.064
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars.
+!SUBENTRY 5 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.064
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.064
+!MESSAGE Could not delete 'C:\Users\Denis\workspace\example'.
+
+!ENTRY org.eclipse.core.resources 4 273 2013-09-19 22:38:17.067
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete '/example/lib_managed'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.delete(FileSystemResourceManager.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFolder(ResourceTree.java:352)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:387)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Problems encountered while deleting files.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit\junit-4.10.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-1.9.1.jar.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars.
+Contains: Could not delete: C:\Users\Denis\workspace\example\lib_managed.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.067
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit\junit-4.10.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit\junit.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\junit.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest\hamcrest-core.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.hamcrest.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.0.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-actors.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.10.0.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.067
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang\scala-reflect.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scala-lang.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-1.9.1.jar.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest\scalatest_2.10.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars\org.scalatest.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed\jars.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete: C:\Users\Denis\workspace\example\lib_managed.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2013-09-19 22:38:17.068
+!MESSAGE Could not delete 'C:\Users\Denis\workspace\example'.
+!SESSION 2013-09-20 09:39:52.042 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.scala-ide.sdt.core 4 0 2013-09-20 13:02:07.865
+!MESSAGE Error during askOption
+!STACK 0
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at scala.tools.nsc.interactive.Response.get(Response.scala:74)
+	at scala.tools.eclipse.ScalaPresentationCompiler.askOption(ScalaPresentationCompiler.scala:146)
+	at scala.tools.eclipse.ScalaPresentationCompiler.askOption(ScalaPresentationCompiler.scala:137)
+	at scala.tools.eclipse.ScalaHover$$anonfun$getHoverInfo$1.scala$tools$eclipse$ScalaHover$$anonfun$$hoverInfo$1(ScalaHover.scala:24)
+	at scala.tools.eclipse.ScalaHover$$anonfun$getHoverInfo$1$$anonfun$apply$3.apply(ScalaHover.scala:41)
+	at scala.tools.eclipse.ScalaHover$$anonfun$getHoverInfo$1$$anonfun$apply$3.apply(ScalaHover.scala:40)
+	at scala.Option.flatMap(Option.scala:170)
+	at scala.tools.eclipse.ScalaHover$$anonfun$getHoverInfo$1.apply(ScalaHover.scala:40)
+	at scala.tools.eclipse.ScalaHover$$anonfun$getHoverInfo$1.apply(ScalaHover.scala:21)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:597)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:596)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:590)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:589)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:589)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:598)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:50)
+	at scala.tools.eclipse.ScalaHover.getHoverInfo(ScalaHover.scala:43)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:168)
+
+!ENTRY org.scala-ide.sdt.core 4 0 2013-09-20 14:30:49.580
+!MESSAGE Error during instrumentation of ScriptCompilationUnit(L/progfun-recfun/src/main/scala/recfun/scratch.sc)
+!STACK 0
+org.scalaide.worksheet.runtime.ProgramInstrumentationFailed: Error during askInstrumented of unit scratch.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:37)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:20)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$act$1$$anonfun$apply$1.applyOrElse(WorksheetRunner.scala:59)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:129)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.scala$actors$InternalReplyReactor$$super$resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:59)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.searchMailbox(WorksheetRunner.scala:33)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:117)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+Caused by: java.lang.ArrayIndexOutOfBoundsException
+	at scala.Array$.copy(Array.scala:105)
+	at scala.tools.nsc.interactive.ScratchPadMaker2$Patcher$$anonfun$result$2.apply(ScratchPadMaker2.scala:148)
+	at scala.tools.nsc.interactive.ScratchPadMaker2$Patcher$$anonfun$result$2.apply(ScratchPadMaker2.scala:145)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:47)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.nsc.interactive.ScratchPadMaker2$Patcher.result(ScratchPadMaker2.scala:145)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$Instrumenter$.scala$tools$nsc$interactive$ProgramInstrumenter$Instrumenter$$instrumentation(ProgramInstrumenter.scala:35)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$Instrumenter$$anonfun$askInstrumentation$1.apply(ProgramInstrumenter.scala:15)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$Instrumenter$$anonfun$askInstrumentation$1.apply(ProgramInstrumenter.scala:15)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:616)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:616)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:623)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:616)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$Instrumenter$.askInstrumentation(ProgramInstrumenter.scala:14)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$$anonfun$askInstrumented$1.apply$mcV$sp(ProgramInstrumenter.scala:51)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$$anonfun$askInstrumented$1.apply(ProgramInstrumenter.scala:51)
+	at scala.tools.nsc.interactive.ProgramInstrumenter$$anonfun$askInstrumented$1.apply(ProgramInstrumenter.scala:51)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:339)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:400)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:253)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5631)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5731)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5734)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:2238)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5531)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5604)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2926)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$60.apply(Typers.scala:3030)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$60.apply(Typers.scala:3030)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3030)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1919)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1800)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5604)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:2926)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$60.apply(Typers.scala:3030)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$60.apply(Typers.scala:3030)
+	at scala.collection.immutable.List.loop$1(List.scala:170)
+	at scala.collection.immutable.List.mapConserve(List.scala:186)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3030)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5263)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5549)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5604)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5666)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:464)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1153)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1153)
+	at scala.reflect.internal.SymbolTable.atPhase(SymbolTable.scala:207)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1153)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1146)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$typeCheck(Global.scala:585)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5$$anonfun$apply$7.apply(Global.scala:501)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:497)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:497)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:772)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:771)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:497)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+
+!ENTRY org.eclipse.ui 4 4 2013-09-20 14:34:03.500
+!MESSAGE Invalid preference page path: XML Syntax
+
+!ENTRY org.scala-ide.sdt.core 2 0 2013-09-20 15:46:16.993
+!MESSAGE ProgramExecutor actor <C:\Users\Denis\scala assignments\recfun\src\main\scala\recfun\scratch.sc> self-healing...
+!STACK 0
+java.lang.NullPointerException
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.org$scalaide$worksheet$editor$ScriptEditor$DefaultEditorProxy$$doc(ScriptEditor.scala:71)
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.getContents(ScriptEditor.scala:73)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer.<init>(IncrementalDocumentMixer.scala:30)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer$.apply(IncrementalDocumentMixer.scala:16)
+	at org.scalaide.worksheet.runtime.ProgramExecutor$$anonfun$act$1$$anonfun$apply$1.applyOrElse(ProgramExecutor.scala:167)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:129)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.scala$actors$InternalReplyReactor$$super$resumeReceiver(ProgramExecutor.scala:100)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:59)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.resumeReceiver(ProgramExecutor.scala:100)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.searchMailbox(ProgramExecutor.scala:100)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:117)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+!SESSION 2013-09-21 12:45:56.826 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-21 13:01:37.008
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-22 15:03:09.298 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-22 17:03:19.092
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-22 17:51:24.717 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-22 18:07:05.313
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-22 18:10:23.375 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-22 18:30:35.312
+!MESSAGE Invalid preference page path: XML Syntax
+
+!ENTRY org.scala-ide.sdt.core 2 0 2013-09-22 21:34:33.484
+!MESSAGE ProgramExecutor actor <C:\Users\Denis\scala assignments\recfun\src\main\scala\recfun\scratch.sc> self-healing...
+!STACK 0
+java.lang.NullPointerException
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.org$scalaide$worksheet$editor$ScriptEditor$DefaultEditorProxy$$doc(ScriptEditor.scala:71)
+	at org.scalaide.worksheet.editor.ScriptEditor$DefaultEditorProxy.getContents(ScriptEditor.scala:73)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer.<init>(IncrementalDocumentMixer.scala:30)
+	at org.scalaide.worksheet.runtime.IncrementalDocumentMixer$.apply(IncrementalDocumentMixer.scala:16)
+	at org.scalaide.worksheet.runtime.ProgramExecutor$$anonfun$act$1$$anonfun$apply$1.applyOrElse(ProgramExecutor.scala:167)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:129)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.scala$actors$InternalReplyReactor$$super$resumeReceiver(ProgramExecutor.scala:100)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:59)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.resumeReceiver(ProgramExecutor.scala:100)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.ProgramExecutor.searchMailbox(ProgramExecutor.scala:100)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:117)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+!SESSION 2013-09-24 18:25:30.335 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-25 01:10:09.914
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-09-26 15:18:52.300 -----------------------------------------------
+eclipse.buildId=3.0.1-vfinal-20130718-1727-Typesafe
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-09-26 15:30:34.028
+!MESSAGE Invalid preference page path: XML Syntax
