@@ -16,6 +16,11 @@ object rationals {;import org.scalaide.worksheet.runtime.library.WorksheetSuppor
 }
 
 class Rational(x: Int, y: Int) {
+	require(y != 0, "denominator must be non-zero")
+	
+	def this(x:Int) = this(x,1)
+	
+	private def gcd(a: Int, b: Int): Int = if(b==0) a else gcd(b, a%b)
 	def numer = x
 	def denom = y
 	
@@ -28,7 +33,10 @@ class Rational(x: Int, y: Int) {
 	// subtract two rational numbers
 	def sub(that: Rational) = add(that.neg)
 			
-	override def toString = numer + "/" + denom
+	override def toString = {
+		val g = gcd(numer, denom)
+		numer/g + "/" + denom/g
+	}
 	
 	// x.neg -> -x
 	def neg = new Rational(numer * -1, denom)
