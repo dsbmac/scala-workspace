@@ -1,0 +1,28 @@
+package funsets
+
+object scratch {
+	// define type alias for set characteristic function
+	type Set = Int => Boolean
+  val s0 = (x: Int) => x == 5                     //> s0  : Int => Boolean = <function1>
+  val s1 = (x: Int) => x == 2                     //> s1  : Int => Boolean = <function1>
+  
+  
+  def contains(s: Set, elem: Int): Boolean = s(elem)
+                                                  //> contains: (s: Int => Boolean, elem: Int)Boolean
+  def singletonSet(elem: Int): Set = Set(elem)    //> singletonSet: (elem: Int)Int => Boolean
+  
+  def union(s: Set, t: Set): Set = {
+  	x => contains(s, x) | contains(t, x)
+  }                                               //> union: (s: Int => Boolean, t: Int => Boolean)Int => Boolean
+  
+  def intersect(s: Set, t: Set): Set = {
+  	x => contains(s, x) & contains(t, x)
+  }                                               //> intersect: (s: Int => Boolean, t: Int => Boolean)Int => Boolean
+  
+  def diff(s: Set, t: Set): Set = {
+  	x => contains(s, x) & !contains(t, x)
+  }                                               //> diff: (s: Int => Boolean, t: Int => Boolean)Int => Boolean
+  
+  val test0 = union(s0, s1)(2)                    //> test0  : Int => Boolean = <function1>
+  val d = s0(4)                                   //> d  : Boolean = false
+}

@@ -1,0 +1,13 @@
+package funsets
+
+object scratch {                           //> s0  : scala.collection.immutable.Set[Int] = Set(1)
+	// define type alias for set characteristic function
+	type Set = Int => Boolean
+  def contains(s: Set, elem: Int): Boolean = s(elem)
+                                                  //> contains: (s: Int => Boolean, elem: Int)Boolean
+  def singletonSet(elem: Int): Set = Set(elem)    //> singletonSet: (elem: Int)Int => Boolean
+  def union(s: Set, t: Set): Set = {
+  	x => contains(s, x) & contains(t, x)
+  }                                               //> union: (s: Int => Boolean, t: Int => Boolean)Int => Boolean
+  
+}
